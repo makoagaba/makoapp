@@ -17,6 +17,7 @@
         <activity android:name=".Internal2" />
         <activity android:name=".internalstorage" />
 
+        
         <activity android:name=".food" />
         <activity android:name=".email" />
         <activity android:name=".DisplayMessageActivity" />
