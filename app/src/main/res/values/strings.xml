@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">makoapp</string>
+    <string name="Welcome">Welcome</string>
+    <string name="email">email</string>
+    <string name="food">food</string>
+    <string name="name">name</string>
+    <string name="birthday">birthday</string>
+    <string name="add">add</string>
+    <string name="show">show</string>
+    <string name="delete">delete</string>
+    <string name="password">password</string>
+    <string name="save">save</string>
+    <string name="next">next</string>
+    <string name="getname">getname</string>
+    <string name="getpassword">getpassword</string>
+    <string name="load">load</string>
+    <string name="back">back</string>
+
+</resources>
+

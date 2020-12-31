@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">makoapp</string>
+    <string name="Welcome">bienvenu</string>
+    <string name="email">courrier</string>
+    <string name="food">nourriture</string>
+
+
+</resources>
